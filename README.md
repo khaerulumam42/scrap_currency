@@ -6,6 +6,6 @@ Scrapping ini saya mengambil data dari https://exchange-rates.org . Perlu diketa
 
 Kode sumber pada repo ini sudah saya tuliskan tutorialnya di bagian [pertama](https://medium.com/@khaerulumam42/web-scrapping-data-cleansing-dan-visualisasi-data-menggunakan-python-part-1-296ff8ef643c?source=friends_link&sk=1572364642aeb0d5b1398b5f006ca35d) dan bagian [kedua](https://medium.com/@khaerulumam42/mengambil-data-halaman-web-pembersihan-data-dan-visualisasi-data-menggunakan-python-part-2-7fa525e08662?source=friends_link&sk=57cd911401cde39146d6f9e3c7239790)
 
-Jika ada kritik dan saran bisa tambahkan di *issue* atau juga bisa langsung email ke saya khaerulumam42@gmail.com
+Jika ada kritik dan saran bisa tambahkan di [issues](https://github.com/khaerulumam42/scrap_currency/issues) atau juga bisa langsung email ke saya khaerulumam42@gmail.com
 
 Terima kasih
